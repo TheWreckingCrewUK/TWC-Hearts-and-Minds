@@ -80,6 +80,7 @@ private _items = ["ACE_elasticBandage",
 	"U_B_CBRN_Suit_01_MTP_F",
 	"ACE_wirecutter",
 	"ACE_Clacker",
+	"ItemMap",
 	"G_AirPurifyingRespirator_01_F"
 	];
 private _backpacks = ["CUP_B_US_IIID_OCP"];
